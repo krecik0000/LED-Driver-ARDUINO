@@ -1,0 +1,10 @@
+E:\VSC projects\serialTest2.0\serialTest2.0\bin\Debug\serialTest2.0.exe.config
+E:\VSC projects\serialTest2.0\serialTest2.0\bin\Debug\serialTest2.0.exe
+E:\VSC projects\serialTest2.0\serialTest2.0\bin\Debug\serialTest2.0.pdb
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2._0.Form1.resources
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2._0.Properties.Resources.resources
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2.0.csproj.GenerateResource.cache
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2.0.csproj.CoreCompileInputs.cache
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2.0.exe
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2.0.pdb
+E:\VSC projects\serialTest2.0\serialTest2.0\obj\Debug\serialTest2.0.csprojAssemblyReference.cache
